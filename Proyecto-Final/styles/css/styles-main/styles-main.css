@@ -1,0 +1,18 @@
+.navbar-info-top {
+  background-color: #0070B5; }
+  .navbar-info-top a {
+    color: #ffffff; }
+  .navbar-info-top .icon-bar {
+    background-color: #ffffff; }
+
+section .title-description {
+  text-align: center; }
+  section .title-description h1 {
+    font-family: 'Lato', sans-serif;
+    margin-right: 85px;
+    margin-bottom: 20px; }
+
+.about {
+  text-align: center; }
+
+/*# sourceMappingURL=styles-main.css.map */
