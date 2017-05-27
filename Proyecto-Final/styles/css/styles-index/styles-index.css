@@ -18,14 +18,17 @@ body {
 .index-main {
   text-align: center; }
   .index-main h1 {
-    font-family: 'Lato', sans-serif; }
+    font-family: 'Lato', sans-serif;
+    animation-delay: 0.5s; }
   .index-main h2 {
     margin-top: 25px;
-    font-family: 'Lato', sans-serif; }
+    font-family: 'Lato', sans-serif;
+    animation-delay: 1s; }
   .index-main .btn {
     margin-top: 15px;
     background-color: #0D5578;
-    border: none; }
+    border: none;
+    animation-delay: 1s; }
     .index-main .btn:hover {
       background-color: #4FAE54; }
     .index-main .btn a {
