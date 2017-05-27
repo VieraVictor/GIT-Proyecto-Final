@@ -24,7 +24,8 @@ section{
 }
 
 .about{
-    margin-top: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
   .box-about{
     .title-content{
       position: relative;
@@ -45,5 +46,14 @@ section{
       img{
       width: 40px;
     }
+  }
+}
+
+.services{
+  background-image: url('../../../images/home-img/img-service.jpg');
+  background-size: cover;
+  padding: 100px;
+  h2,h3,.tab-text{
+    color: #fafad2;
   }
 }

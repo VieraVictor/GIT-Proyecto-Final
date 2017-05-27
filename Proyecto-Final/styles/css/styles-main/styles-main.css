@@ -16,7 +16,8 @@ section .title-description {
     width: 70%; }
 
 .about {
-  margin-top: 50px; }
+  margin-top: 80px;
+  margin-bottom: 50px; }
   .about .box-about .title-content {
     position: relative;
     padding: 10px 10px 10px 55px;
@@ -31,5 +32,12 @@ section .title-description {
     top: 12px; }
   .about .box-about img {
     width: 40px; }
+
+.services {
+  background-image: url("../../../images/home-img/img-service.jpg");
+  background-size: cover;
+  padding: 100px; }
+  .services h2, .services h3, .services .tab-text {
+    color: #fafad2; }
 
 /*# sourceMappingURL=styles-main.css.map */
